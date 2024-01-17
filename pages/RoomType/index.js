@@ -186,7 +186,7 @@ export default function RoomType(){
                            </div>
                            <div className={style.textsell}>
                                 <div>
-                                    SK Court
+                                    Skk Court
                                 </div>
                            </div>
                            <div className={style.icon1}>
